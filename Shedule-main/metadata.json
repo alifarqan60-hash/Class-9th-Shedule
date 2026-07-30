@@ -1,0 +1,8 @@
+{
+  "name": "Class 9 Federal Board Study Schedule",
+  "description": "Interactive color-coded 22-day study planner, subject breakdown, progress tracker, and PowerPoint (.pptx) slide deck generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
